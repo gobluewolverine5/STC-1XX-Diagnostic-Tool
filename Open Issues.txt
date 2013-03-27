@@ -1,0 +1,9 @@
+2. Read Engine Parameter - Change Time updates
+1. System Diagnostic Tool - Swap buttons. Fix light
+3. Research more on freeze frame data
+6. Input Output Test - update Time
+5. System Status - Update Time
+4. Self-Test - message fix
+7. Update Time
+
+mechanism to check connection.
